@@ -1,0 +1,12 @@
+1: Mô hình DIKW của momo
+Data: Lưu lịch sử các giao dịch chi tiêu.
+Information: Tổng hợp thành báo cáo chi tiêu theo tháng.
+Knowledge: Cảnh báo khi số tiền chi tiêu vượt mức đã đặt.
+Wisdom: Dựa vào thói quen chi tiêu để gợi ý kế hoạch tiết kiệm.
+2.IPO
+Input: Dữ liệu giao dịch, số tiền, thời gian và loại chi tiêu.
+Process: CPU xử lý và phân tích dữ liệu.
+Output: Báo cáo, cảnh báo và kế hoạch tiết kiệm.
+-2 cái bẫy
++bẫy 1: bật View > Show > Hidden items để thấy .env, không xóa nhầm.
++bẫy 2: 1.000.000 x 1 KB = 1.000.000 KB = 1000 MB/ngày.
